@@ -1,0 +1,8 @@
+{
+  "MongoHost": "",
+  "MongoPort": "",
+  "MongoDatabase": "",
+  "MongoUsername": "",
+  "MongoPassword": "",
+  "DiscordBotToken": ""
+}
